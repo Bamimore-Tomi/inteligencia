@@ -16,15 +16,15 @@ tags_metadata=[
     },
     {
         'name':'synonyms',
-        'description':'Takes in a word or a group of words separated by commas and return a list of english language synonyms for the words.'
+        'description':'Takes in a word or a group of words separated by commas and return a list of English language synonyms for the words.'
     },
     {
         'name':'antonyms',
-        'description':'Takes in a word or a group of words separated by commas and return a list of english language antonyms for the words.'
+        'description':'Takes in a word or a group of words separated by commas and return a list of English language antonyms for the words.'
     },
     {
         'name':'tospeech',
-        'description':'Takes in a string and returns an audio file of the word.'
+        'description':'Takes in a string and returns an audio file of the text.'
     }
 ]
 
